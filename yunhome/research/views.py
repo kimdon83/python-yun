@@ -6,10 +6,10 @@ from .models import publication
 # # from .models import conference
 
 # # Create your views here.
-# class PubDetailView(DetailView):
-#     model = publication
-#     context_object_name = "publication"
-#     template_name = 'research/pub_detail.html'
+class PubDetailView(DetailView):
+    model = publication
+    context_object_name = "publication"
+    template_name = 'research/pub_detail.html'
 
 # class ConfDetailView(DetailView):
 #     model = conference

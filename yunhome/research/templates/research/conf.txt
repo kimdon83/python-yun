@@ -1,0 +1,10 @@
+id,authors,title,image,where,year
+1,"Lim, C., Lei, Y., Hales, G., Liu, H., Ratan, R.",From Agent to Avacar: Behavioral influence through the controllable-agent paradigm,,International Communication Association,May 2023
+2,"Leith, A., Foxman, M., Ratan, R., Lim, C.",Feelings for Meetings: A sentiment analysis of videoconferencing platforms a year apart,,International Communication Association,May 2023
+3,"Foxman, M., Leith A., Ratan, R., Bouzek, D., Lim, C., Beyea, D",Playfully Virtual: Finding Authentic Communication in Videoconferencing and Online Meetings,,International Communication Association,May 2023
+4,"Lin, Q., Ratan, R., Lover, A., Lim, C., Jang, D., Schultz, Z., An, Y.",Is Teaching in Virtual Reality Superior to Video Conferencing? Examining the role of social presence.,,International Communication Association,May 2023
+5,"Ratan, R., Liu, H., Hales, G., Lim, C., Foxman, M., Lei, Y., Lee, O., Mesh, D.",The Metaverse Spend: Game purchasers perceive more virtual value,,National Communication Association,Nov 2022
+6,"Beyea, D., Ratan, R., Lei, Y., Liu, H., Hales, G., Lim, C.",Toward a Clear Definition and Understanding of the Proteus Effect: Examining Modality and Avatar Uncanniness as Moderators,,International Communication Association,May 2022
+7,"Lim, C","Are idealized self-portrait photos due to personality, or is it a product of lookism society?",,International Communication Association,May 2021
+8,"Ratan, R., Ucha, C., Lei Y., Lim, C., Sheahan, A., Lamb, B., Deni, B., Triwibowo, W., Chen, V., Yelo","How does Active Information Engagement in Synchronous and Asynchronous Online Classes Relate to Social Presence, Perceived Learning, Perceived Competence, and Class Enjoyment?",,International Communication Association,May 2021
+9,"Lim, C., Park, M., Baek., Y.",Discovering Research Topics in the Communication Field from 1997 to 2017 Using Structural Topic Modeling (STM),,International Communication Association,May 2019
