@@ -5,3 +5,7 @@
 <p>{{publication.doi}}</p>
 <p>{{publication.description}}</p>
 <p>{{publication.image}}</p>
+
+{% if publication.abstract %}
+{{publication.abstract}}
+{% endif %}

@@ -9,7 +9,9 @@ class publication(models.Model):
     year    = models.CharField(max_length = 10)
     description = models.TextField(blank=True)
     pubconf    = models.CharField(max_length=100,default='publication')
-    pdf     = models.FileField(null=True)
+    pdf     = models.FileField(null=True, blank=True)
+    abstract = models.CharField(max_length=2000,default='')
+    link     = models.CharField(max_length=100,null=True, blank=True)
 
 
     def __str__(self):
