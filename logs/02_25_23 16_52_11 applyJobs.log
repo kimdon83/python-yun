@@ -1,0 +1,11 @@
+./logs/25-Feb-23 16:52:11::__main__::INFO::{'positions': ['Data Scientist', 'Data Analyst', None, None], 'locations': ['Remote', 'East Lansing'], 'Resume': 'D:\\MSU\\2022spring\\job\\Resume_DonghunKim3.pdf'}
+./logs/25-Feb-23 16:52:11::__main__::INFO::Welcome to Easy Apply Bot
+./logs/25-Feb-23 16:52:11::__main__::INFO::current directory is : d:\python-yun
+./logs/25-Feb-23 16:52:11::__main__::INFO::[Errno 2] No such file or directory: 'output.csv'   jobIDs could not be loaded from CSV output.csv
+./logs/25-Feb-23 16:52:11::__main__::INFO::Logging in.....Please wait :)  
+./logs/25-Feb-23 16:52:34::__main__::INFO::Applying to Data Scientist: East Lansing
+./logs/25-Feb-23 16:52:44::__main__::INFO::Looking for jobs.. Please wait..
+./logs/25-Feb-23 16:53:41::__main__::INFO::Lock avoided.
+./logs/25-Feb-23 16:54:38::__main__::INFO::Looking for jobs.. Please wait..
+./logs/25-Feb-23 16:54:40::__main__::INFO::598.0 minutes left in this search
+./logs/25-Feb-23 16:54:42::__main__::DEBUG::Sleeping for 4.4
